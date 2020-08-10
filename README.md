@@ -4,7 +4,9 @@ A novice machine learning specialist – a student of a 4<sup>th</sup> year unde
 – with experience in using mathematical and statistical methods of data processing and a love of
 learning.
 
-### Technologies stack:
+<br />
+
+__Technology stack:__
 
 [<img alt="TensorFlow" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/TensorFlow.svg" />][site]
 [<img alt="Keras" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Keras.svg" />][site]
@@ -20,6 +22,11 @@ learning.
 
 ---
 
-<img alt="Yoskutik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yoskutik&show_icons=true&hide_border=false" />
+__Stats:__
+
+<img alt="Yoskutik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yoskutik&show_icons=true" />
+
+<img alt="Yoskutik's Top languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Yoskutik&layout=compact&card_width=445" />
+
 
 [site]: https://github.com/Yoskutik
