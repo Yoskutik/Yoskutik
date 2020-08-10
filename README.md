@@ -1,7 +1,5 @@
 ### Hello, wanderer!
 
-![asd](https://img.shields.io/badge/Tensorflow-<COLOR>)
-
 A novice machine learning specialist – a student of a 4<sup>th</sup> year undergraduate from Russia
 – with experience in using mathematical and statistical methods of data processing and a love of
 learning.
@@ -28,9 +26,9 @@ __Technology stack:__
 
 __Stats:__
 
-<img alt="Yoskutik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yoskutik&show_icons=true" />
+<img alt="Yoskutik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yoskutik&show_icons=true&title_color=444&icon_color=444" />
 
-<img alt="Yoskutik's Top languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Yoskutik&layout=compact&card_width=445" />
+<img alt="Yoskutik's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoskutik&layout=compact&card_width=445&title_color=444" />
 
 ---
 
@@ -38,12 +36,18 @@ __Contacts:__
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/vk.svg" />][vk]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/habr.svg" />][habr]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
+---
 
+![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=yoskutik.yoskutik)
+
+
+[stackoverflow]: https://stackoverflow.com/users/11589183/yoskutik
 [instagram]: https://www.instagram.com/oidmitry
 [habr]: https://habr.com/ru/users/yoskutik/
 [gmail]: mailto:yoskutik@gmail.com
