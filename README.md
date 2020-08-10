@@ -34,6 +34,11 @@ __Stats:__
 
 __StackOverflow Activity:__
 <!-- STACKOVERFLOW:START -->
+- [Answer by Yoskutik for Can't remove vendors directory that was create by Webpack](https://stackoverflow.com/questions/63255297/cant-remove-vendors-directory-that-was-create-by-webpack/63324650#63324650)
+- [LSTM. How to forecast multivariative time series?](https://stackoverflow.com/questions/63314311/lstm-how-to-forecast-multivariative-time-series)
+- [Git Hooks. How to read variables from user input?](https://stackoverflow.com/questions/63258476/git-hooks-how-to-read-variables-from-user-input)
+- [Can't remove vendors directory that was create by Webpack](https://stackoverflow.com/questions/63255297/cant-remove-vendors-directory-that-was-create-by-webpack)
+- [ReactJS. Images disappear on window resize](https://stackoverflow.com/questions/63235850/reactjs-images-disappear-on-window-resize)
 <!-- STACKOVERFLOW:END -->
 
 ---
