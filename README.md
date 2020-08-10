@@ -32,6 +32,12 @@ __Stats:__
 
 ---
 
+__StackOverflow Activity:__
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+---
+
 __Contacts:__
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />][telegram]
