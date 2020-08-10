@@ -1,22 +1,24 @@
 ### Hello, wanderer!
 
-Who am I? I don't know.
+A novice machine learning specialist – a student of a 4<sup>th</sup> year undergraduate from Russia
+– with experience in using mathematical and statistical methods of data processing and a love of
+learning.
 
 ### My technologies stack:
 
-[<img align="left" alt="TensorFlow" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/TensorFlow.svg" />][site]
-[<img align="left" alt="Keras" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Keras.svg" />][site]
-[<img align="left" alt="Scikit Learn" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Scikit-Learn.svg" />][site]
-[<img align="left" alt="Python" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Python.svg" />][site]
-[<img align="left" alt="Jupyter" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Jupyter.svg" />][site]
-[<img align="left" alt="DVC" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/DVC.svg" />][site]
-[<img align="left" alt="Git" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Git.svg" />][site]
+[<img alt="TensorFlow" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/TensorFlow.svg" />][site]
+[<img alt="Keras" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Keras.svg" />][site]
+[<img alt="Scikit Learn" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Scikit-Learn.svg" />][site]
+[<img alt="Python" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Python.svg" />][site]
+[<img alt="Jupyter" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Jupyter.svg" />][site]
+[<img alt="DVC" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/DVC.svg" />][site]
+[<img alt="Git" height="35px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Git.svg" />][site]
 
-[<img align="left" alt="NumPy" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/NumPy.svg" />][site]
-[<img align="left" alt="Matplotlib" height="40px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Matplotlib.svg" />][site] 
-[<img align="left" alt="Pandas" height="40px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" />][site] 
-
-
+[<img alt="NumPy" height="42px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/NumPy.svg" />][site]
+[<img alt="Matplotlib" height="42px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Matplotlib.svg" />][site] 
+[<img alt="Pandas" height="42px" src="https://raw.githubusercontent.com/Yoskutik/Yoskutik/master/images/Pandas.svg" />][site] 
 
 
-[site]: https://asd
+
+
+[site]: https://github.com/Yoskutik
