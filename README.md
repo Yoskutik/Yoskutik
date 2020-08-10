@@ -49,42 +49,26 @@ __Stats:__
 
 __StackOverflow Activity:__
 <!-- STACKOVERFLOW:START -->
-- [Answer by Yoskutik for Can't remove vendors directory that was create by Webpack](https://stackoverflow.com/questions/63255297/cant-remove-vendors-directory-that-was-create-by-webpack/63324650#63324650)
-- [LSTM. How to forecast multivariative time series?](https://stackoverflow.com/questions/63314311/lstm-how-to-forecast-multivariative-time-series)
-- [Git Hooks. How to read variables from user input?](https://stackoverflow.com/questions/63258476/git-hooks-how-to-read-variables-from-user-input)
-- [Can't remove vendors directory that was create by Webpack](https://stackoverflow.com/questions/63255297/cant-remove-vendors-directory-that-was-create-by-webpack)
-- [ReactJS. Images disappear on window resize](https://stackoverflow.com/questions/63235850/reactjs-images-disappear-on-window-resize)
 <!-- STACKOVERFLOW:END -->
 
 ---
 
 __Contacts:__
 
-<a href="https://t.me/Yoskutik" target="_blank">
-  <img alt="Telegram" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://vk.com/yoskutik" target="_blank">
-  <img alt="VK" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/vk.svg" />
-</a>
-
-<a href="https://stackoverflow.com/users/11589183/yoskutik" target="_blank">
-  <img alt="StackOverflow" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-
-<a href="https://habr.com/ru/users/yoskutik/" target="_blank">
-  <img alt="Habr" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/habr.svg" />
-</a>
-
-<a href="mailto:yoskutik@gmail.com" target="_blank">
-  <img alt="E-mail" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a href="https://www.instagram.com/oidmitry" target="_blank">
-  <img alt="Instagram" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />
-</a>
-
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/vk.svg" />][vk]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/habr.svg" />][habr]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=yoskutik.yoskutik)
+
+[stackoverflow]: https://stackoverflow.com/users/11589183/yoskutik
+[instagram]: https://www.instagram.com/oidmitry
+[habr]: https://habr.com/ru/users/yoskutik/
+[gmail]: mailto:yoskutik@gmail.com
+[telegram]: https://t.me/Yoskutik
+[vk]: https://vk.com/yoskutik
