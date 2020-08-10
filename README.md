@@ -1,8 +1,22 @@
 ### Hello, wanderer!
 
-A novice machine learning specialist – a student of a 4<sup>th</sup> year undergraduate from Russia
-– with experience in using mathematical and statistical methods of data processing and a love of
-learning.
+You've came to the place of peace, harmony and code. And this is my profile.
+
+Who am I? Well, wanderer, I'm just a junior data scientist, who wants to know as much he can. 
+And what can I do for now? I guess, you never truly know anything. But I have experience in:
+ - _Computer vision_. Heh, I still remember how Honeywood's king begged me to write a classifier 
+ of 120 dog breeds after the their last invasion of the Kingdom.
+ - _Time series analysis_. I had a terrible fever for several months and fancied myself a teacher.
+ So I now have several repositories with tutorials. I used ARIMA, VARMA, and LSTM recurrent neural
+ networks.
+ - _Residual neural networks_. These guys helped me deal with the robbers who were robbing our 
+ Kingdom. Of course, I didn't catch all of them, but 93% is also a good result.
+ - _Classical machine learning_. Ah, I remember fondly the moments when I used exclusively the 
+ methods of classical machine learning. But alas. Those merits exist now only in legends, and 
+ they do not have their own repositories.
+ 
+And here I am wanderer. Is there anything you want to know more? When look above.
+
 
 <br />
 
@@ -17,6 +31,7 @@ __Technology stack:__
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-444)
 ![DVC](https://img.shields.io/badge/DVC-444)
 ![Git](https://img.shields.io/badge/Git-444)
+![SQL](https://img.shields.io/badge/SQL-444)
 ![Linux](https://img.shields.io/badge/Linux-444)
 ![Python](https://img.shields.io/badge/Python-444)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebooks-444)
@@ -40,22 +55,31 @@ __StackOverflow Activity:__
 
 __Contacts:__
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/vk.svg" />][vk]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/habr.svg" />][habr]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://t.me/Yoskutik" target="_blank">
+  <img alt="Telegram" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<a href="https://vk.com/yoskutik" target="_blank">
+  <img alt="VK" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/vk.svg" />
+</a>
+
+<a href="https://stackoverflow.com/users/11589183/yoskutik" target="_blank">
+  <img alt="StackOverflow" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<a href="https://habr.com/ru/users/yoskutik/" target="_blank">
+  <img alt="Habr" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/habr.svg" />
+</a>
+
+<a href="mailto:yoskutik@gmail.com" target="_blank">
+  <img alt="E-mail" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://www.instagram.com/oidmitry" target="_blank">
+  <img alt="Instagram" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 
 ---
 
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=yoskutik.yoskutik)
-
-
-[stackoverflow]: https://stackoverflow.com/users/11589183/yoskutik
-[instagram]: https://www.instagram.com/oidmitry
-[habr]: https://habr.com/ru/users/yoskutik/
-[gmail]: mailto:yoskutik@gmail.com
-[telegram]: https://t.me/Yoskutik
-[vk]: https://vk.com/yoskutik
