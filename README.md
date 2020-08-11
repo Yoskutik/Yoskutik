@@ -3,20 +3,19 @@
 You've came to the place of peace, harmony and code. And this is my profile.
 
 Who am I? Well, wanderer, I'm just a junior data scientist, who wants to know as much he can. 
-And what can I do for now? I guess, you never truly know anything. But I have experience in:
+And what do I know for now? I guess, you never truly know anything. But experience! Yes, I have it:
  - _Computer vision_. Heh, I still remember how Honeywood's king begged me to write a classifier 
  of 120 dog breeds after the their last invasion of the Kingdom.
  - _Time series analysis_. I had a terrible fever for several months and fancied myself a teacher.
- So I now have several repositories with tutorials. I used ARIMA, VARMA, and LSTM recurrent neural
- networks.
+ And that's why today I have several repositories with tutorials where I used ARIMA, VARMA, and 
+ LSTM recurrent neural networks.
  - _Residual neural networks_. These guys helped me deal with the robbers who were robbing our 
- Kingdom. Of course, I didn't catch all of them, but 93% is also a good result.
+ Kingdom. Of course, I didn't catch them all, but 93% is a pretty good result.
  - _Classical machine learning_. Ah, I remember fondly the moments when I used exclusively the 
  methods of classical machine learning. But alas. Those merits exist now only in legends, and 
  they do not have their own repositories.
  
 And here I am wanderer. Is there anything you want to know more? When look above.
-
 
 <br />
 
@@ -24,7 +23,7 @@ __Technology stack:__
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-444)
 ![Keras](https://img.shields.io/badge/Keras-444)
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-444)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-444)
 ![NumPy](https://img.shields.io/badge/NumPy-444)
 ![SciPy](https://img.shields.io/badge/SciPy-444)
 ![Pandas](https://img.shields.io/badge/Pandas-444)
@@ -51,6 +50,8 @@ __StackOverflow Activity:__
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
+![StackOverflow's stats](https://github-readme-stackoverflow.vercel.app/?userID=11589183)
+
 ---
 
 __Contacts:__
@@ -62,9 +63,7 @@ __Contacts:__
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
----
 
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=yoskutik.yoskutik)
 
 [stackoverflow]: https://stackoverflow.com/users/11589183/yoskutik
 [instagram]: https://www.instagram.com/oidmitry
