@@ -21,20 +21,20 @@ And here I am wanderer. Is there anything you want to know more? When look above
 
 __Technology stack:__
 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-444)
-![Keras](https://img.shields.io/badge/Keras-444)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-444?logo=tensorflow&logoColor=f0f0f0)
+![Keras](https://img.shields.io/badge/Keras-444?logo=keras&logoColor=f0f0f0)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-444)
 ![NumPy](https://img.shields.io/badge/NumPy-444)
 ![SciPy](https://img.shields.io/badge/SciPy-444)
-![Pandas](https://img.shields.io/badge/Pandas-444)
+![Pandas](https://img.shields.io/badge/Pandas-444?logo=pandas&logoColor=f0f0f0)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-444)
 ![DVC](https://img.shields.io/badge/DVC-444)
-![Git](https://img.shields.io/badge/Git-444)
-![SQL](https://img.shields.io/badge/SQL-444)
-![Linux](https://img.shields.io/badge/Linux-444)
-![Python](https://img.shields.io/badge/Python-444)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebooks-444)
-![JavaScript](https://img.shields.io/badge/JavaScript-444)
+![Git](https://img.shields.io/badge/Git-444?logo=git&logoColor=f0f0f0)
+![SQL](https://img.shields.io/badge/SQL-444?logo=sql)
+![Linux](https://img.shields.io/badge/Linux-444?logo=linux&logoColor=f0f0f0)
+![Python](https://img.shields.io/badge/Python-444?logo=python&logoColor=f0f0f0)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebooks-444?logo=jupyter&logoColor=f0f0f0)
+![JavaScript](https://img.shields.io/badge/JavaScript-444?logo=javascript&logoColor=f0f0f0)
 
 ---
 
@@ -50,8 +50,6 @@ __StackOverflow Activity:__
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-![StackOverflow's stats](https://github-readme-stackoverflow.vercel.app/?userID=11589183)
-
 ---
 
 __Contacts:__
@@ -63,7 +61,11 @@ __Contacts:__
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+---
 
+![](https://img.shields.io/badge/@Yoskutik-444?logo=github&style=flat-square)
+
+![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=yoskutik.yoskutik)
 
 [stackoverflow]: https://stackoverflow.com/users/11589183/yoskutik
 [instagram]: https://www.instagram.com/oidmitry
