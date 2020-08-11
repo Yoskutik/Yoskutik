@@ -63,7 +63,9 @@ __Contacts:__
 
 ---
 
-![](https://img.shields.io/badge/@Yoskutik-444?logo=github&style=flat-square)
+![](https://img.shields.io/badge/@Yoskutik-444?logo=github&style=flat-square) 
+![](https://img.shields.io/github/followers/yoskutik?label=Followers&style=flat-square)
+![](https://img.shields.io/stackexchange/StackOverflow/r/11589183?color=informational&style=flat-square)
 
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=yoskutik.yoskutik)
 
