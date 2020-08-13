@@ -40,9 +40,9 @@ __Technology stack:__
 
 __Stats:__
 
-<img alt="Yoskutik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yoskutik&show_icons=true&title_color=444&icon_color=444" />
+<img alt="Yoskutik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yoskutik&show_icons=true&title_color=444&icon_color=444" />
 
-<img alt="Yoskutik's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoskutik&layout=compact&card_width=445&title_color=444" />
+<img alt="Yoskutik's Top languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Yoskutik&layout=compact&card_width=445&title_color=444" />
 
 ---
 
