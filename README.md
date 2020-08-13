@@ -52,12 +52,23 @@ __StackOverflow Activity:__
 
 ---
 
+__My blog:__
+
+  - [Анализ временных рядов. Часть 1. Стационарность][blog1] [RU]
+
+---
+
+__CVs:__
+  - [Eng] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_eng.pdf)
+  - [Ru] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_ru.pdf)
+  
+<br />
+
 __Contacts:__
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/vk.svg" />][vk]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/habr.svg" />][habr]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -67,11 +78,10 @@ __Contacts:__
 ![](https://img.shields.io/github/followers/yoskutik?label=Followers&style=flat-square)
 ![](https://img.shields.io/stackexchange/StackOverflow/r/11589183?color=informational&style=flat-square)
 
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=yoskutik.yoskutik)
-
 [stackoverflow]: https://stackoverflow.com/users/11589183/yoskutik
 [instagram]: https://www.instagram.com/oidmitry
-[habr]: https://habr.com/ru/users/yoskutik/
 [gmail]: mailto:yoskutik@gmail.com
 [telegram]: https://t.me/Yoskutik
 [vk]: https://vk.com/yoskutik
+
+[blog1]: https://medium.com/@yoskutik/анализ-временных-рядов-часть-1-стационарность-74f45144ee86
