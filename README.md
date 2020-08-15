@@ -54,13 +54,15 @@ __StackOverflow Activity:__
 
 __My blog:__
 
+  - [DVC vs GIT. Почему GIT'а недостаточно в проектах машинного обучения][blog_habr] [RU]
   - [Анализ временных рядов. Часть 1. Стационарность][blog1] [RU]
+  - [Анализ временных рядов. Часть 2. Одномерные ряды][blog2] [RU]
 
 ---
 
 __CVs:__
-  - [Eng] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_eng.pdf)
-  - [Ru] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_ru.pdf)
+  - [ENG] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_eng.pdf)
+  - [RU] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_ru.pdf)
   
 <br />
 
@@ -85,3 +87,5 @@ __Contacts:__
 [vk]: https://vk.com/yoskutik
 
 [blog1]: https://medium.com/@yoskutik/анализ-временных-рядов-часть-1-стационарность-74f45144ee86
+[blog2]: https://medium.com/@yoskutik/анализ-временных-рядов-часть-2-одномерные-ряды-f49cd6369544
+[blog_habr]: https://habr.com/ru/sandbox/138524/
