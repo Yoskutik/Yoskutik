@@ -1,4 +1,4 @@
-### Hello, wanderer!
+# Junior Data Scientist
 
 You've came to the place of peace, harmony and code. And this is my profile.
 
@@ -19,7 +19,7 @@ And here I am wanderer. Is there anything you want to know more? When look above
 
 <br />
 
-__Technology stack:__
+### Technology stack:
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-444?logo=tensorflow&logoColor=f0f0f0)
 ![Keras](https://img.shields.io/badge/Keras-444?logo=keras&logoColor=f0f0f0)
@@ -38,7 +38,7 @@ __Technology stack:__
 
 ---
 
-__Stats:__
+### GitHub statistics:
 
 <img alt="Yoskutik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yoskutik&show_icons=true&title_color=444&icon_color=444" />
 
@@ -46,27 +46,24 @@ __Stats:__
 
 ---
 
-__StackOverflow Activity:__
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
+### Kaggle Competitions:
+
+|Title                                      |Place|
+|-------------------------------------------|-----|
+|1. [OSIC Pulmonary Fibrosis Progression][1]|1779 |
+
+All information about competitions tasks, arisen problems and used techniques is provided in the
+competitions' [repository][competitions].
 
 ---
 
-__My blog:__
-
-  - [DVC vs GIT. Почему GIT'а недостаточно в проектах машинного обучения][blog_habr] [RU]
-  - [Анализ временных рядов. Часть 1. Стационарность][blog1] [RU]
-  - [Анализ временных рядов. Часть 2. Одномерные ряды][blog2] [RU]
-
----
-
-__CVs:__
+### CVs:
   - [ENG] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_eng.pdf)
   - [RU] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_ru.pdf)
   
 <br />
 
-__Contacts:__
+### Contacts:
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/vk.svg" />][vk]
@@ -86,6 +83,5 @@ __Contacts:__
 [telegram]: https://t.me/Yoskutik
 [vk]: https://vk.com/yoskutik
 
-[blog1]: https://medium.com/@yoskutik/анализ-временных-рядов-часть-1-стационарность-74f45144ee86
-[blog2]: https://medium.com/@yoskutik/анализ-временных-рядов-часть-2-одномерные-ряды-f49cd6369544
-[blog_habr]: https://habr.com/ru/sandbox/138524/
+[competitions]: https://github.com/yoskutik/Competitions
+[1]: https://github.com/Yoskutik/Competitions/tree/master/OSIC%20Pulmonary%20Fibrosis%20Progression
