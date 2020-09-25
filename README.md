@@ -1,26 +1,5 @@
 # Junior Data Scientist
 
-You've came to the place of peace, harmony and code. And this is my profile.
-
-Who am I? Well, wanderer, I'm just a junior data scientist, who wants to know as much he can. 
-And what do I know for now? I guess, you never truly know anything. But experience! Yes, I have it:
- - _Computer vision_. Heh, I still remember how Honeywood's king begged me to write a classifier 
- of 120 dog breeds after the their last invasion of the Kingdom.
- - _Time series analysis_. I had a terrible fever for several months and fancied myself a teacher.
- And that's why today I have several repositories with tutorials where I used ARIMA, VARMA, and 
- LSTM recurrent neural networks.
- - _Residual neural networks_. These guys helped me deal with the robbers who were robbing our 
- Kingdom. Of course, I didn't catch them all, but 93% is a pretty good result.
- - _Classical machine learning_. Ah, I remember fondly the moments when I used exclusively the 
- methods of classical machine learning. But alas. Those merits exist now only in legends, and 
- they do not have their own repositories.
- 
-And here I am wanderer. Is there anything you want to know more? When look above.
-
-<br />
-
-### Technology stack:
-
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-444?logo=tensorflow&logoColor=f0f0f0)
 ![Keras](https://img.shields.io/badge/Keras-444?logo=keras&logoColor=f0f0f0)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-444)
@@ -36,32 +15,80 @@ And here I am wanderer. Is there anything you want to know more? When look above
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebooks-444?logo=jupyter&logoColor=f0f0f0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-444?logo=javascript&logoColor=f0f0f0)
 
----
+Студент четвёртого курса бакалавриата. Несмотря на то, что я учусь по специальности Информационной
+безопасности, душа моя лежит к Науке о данных. 
 
-### GitHub statistics:
+
+### Навыки:
+
+- Построение нейронных сетей различных топологий;
+- Применение ансамблей дерьевьев решений;
+- Кластеризация данных;
+- Классификация и регрессия данных;
+- Понижение размерности и визуализация данных.
+
+
+### Опыт в Data Science:
+
+- __Классификация изображений__. Я работал с различными моделями, связанными с машинным зрением: 
+`Inception-like`, `MobileNet-like`, `ResNet-like` и другие. Есть опыт классификации в выборке с 
+более, чем 100 классов. 
+- __Верификация изображений__. В отличии от классификации (соотнесения изображения определенному
+классу), в вопросах верификации нужно определить является ли изображение одним из разрешённых,
+и если да, то каким. Имею опыт в построении `Siamese` сетей и использовании `triplet loss`.
+- __Анализ и прогнозирование временных рядов__. Проводил анализ посредством алгоритмов семейств
+`ARIMA` и `VAR`. Также занимался прогнозированием с помощью рекуррентных `LSTM` сетей.
+- __Кластеризация данных__. Имею опыт в применении кластеризации, основанной на плотности,
+расстоянии до ближайших соседей, и агломеративной иерархической кластеризации. Также имею опыт
+в оценке проведенной кластеризации.
+
+Я проходил практику в РЖД по направлению "Построение моделей долгосрочного прогнозирования объёмов
+погрузки грузов на ж/д сеть". Там был получен реальный опыт работы с прогнозированием временных 
+рядов и коммерческой разработке на `Python`.
+
+Остальной опыт работы был получен в прохождении курсов на _Coursera.org_  последующим закреплением
+знаний на различных датасетах, взятых с сайта _Kaggle.com_.
+
+
+### Опыт в программировании:
+
+На данный момент у меня имеются навыки в:
+- ООП програмировании; 
+- использовании генераторов;
+- параллельном программировании с применением потоков и процессов;
+- написании документации в коде и в сопровождающих `README` файлах.
+
+Имеется [опыт][my package] создания собственнных `Python` пакетов.
+
+Также имеется опыт работы с языком `JavaScript`.
+
+
+<br />
+
+### Статистика GitHub:
 
 <img alt="Yoskutik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yoskutik&show_icons=true&title_color=444&icon_color=444" />
 
 <img alt="Yoskutik's Top languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=Yoskutik&layout=compact&card_width=445&title_color=444" />
 
----
+
+<br />
 
 ### Kaggle Competitions:
 
-|Title                                      |Place|
-|-------------------------------------------|-----|
-|1. [OSIC Pulmonary Fibrosis Progression][1]|1779 |
+1. [OSIC Pulmonary Fibrosis Progression][1]
 
-All information about competitions tasks, arisen problems and used techniques is provided in the
-competitions' [repository][competitions].
+Вся информация о целях, возникших проблемах и использованных технологиях о каждом отдельном 
+соревновании находится в соответствующем  [репозитории][competitions].
 
----
 
-### CVs:
-  - [ENG] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_eng.pdf)
-  - [RU] [Machine Learning Intern](https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_ru.pdf)
-  
 <br />
+
+### Резюме:
+
+- В формате PDF:  [Junior Data Scientist][CV PDF]
+- В формате HH.ru: [Junior Data Scientist][CV HH]
+  
 
 ### Contacts:
 
@@ -82,6 +109,11 @@ competitions' [repository][competitions].
 [gmail]: mailto:yoskutik@gmail.com
 [telegram]: https://t.me/Yoskutik
 [vk]: https://vk.com/yoskutik
+
+[my package]: https://github.com/yoskutik/awesome_progress_bar
+
+[CV PDF]: https://github.com/Yoskutik/Yoskutik/blob/master/CVs/CV_ru.pdf
+[CV HH]: https://spb.hh.ru/resume/994cfd42ff07f5ff2f0039ed1f646570696a59
 
 [competitions]: https://github.com/yoskutik/Competitions
 [1]: https://github.com/Yoskutik/Competitions/tree/master/OSIC%20Pulmonary%20Fibrosis%20Progression
