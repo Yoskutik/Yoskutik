@@ -1,11 +1,11 @@
-<h1>
+<h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hello there!
-</h1>
+</h2>
 
 [![React TypeScript Developer](https://readme-typing-svg.herokuapp.com?duration=4000&vCenter=true&height=40&lines=~%24+React+TypeScript+Developer;~%24+FrontLead%2C+Senior)](https://git.io/typing-svg)
 
-# 🧐 About me
+## 🧐 About me
 
 - 👨‍🎓 Have a bachelor's degree in information security and currently studying in the first 
 year of a master's degree;
@@ -36,7 +36,7 @@ year of a master's degree;
 ✔️
 ©️
 
-# 🛠️ Technologies
+## 🛠️ Technologies
 
 ### 🏆 Main stack
 
