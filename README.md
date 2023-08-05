@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
 </a>
 
+![](https://stackoverflow-readme-profile.johannchopin.fr/profile/11589183)
+
 ---
 
 ## 🧐 About me
@@ -22,12 +24,16 @@ Hey, there 👋! I am a Frontend Developer. I've been doing
 frontend since 2018, and I also have a year experience of
 working as a team-lead. Right now I am working on a project
 with a code base of more than **200K lines of code**, that
-has **micro frontends**, and over **30 million visitors a day**.
+has **micro frontends**, and over **40 million visitors a day**.
 
 ## 🖋️ Latest Blog Posts
+* Configurable typing of NPM packages. Typing may be Stricter than you Think
+/ [[Ru](https://habr.com/ru/articles/751318/)]
+* [In search of the best EcmaScript version for the website assembly](https://medium.com/mayflower-team/in-search-of-the-best-ecmascript-version-for-the-build-d557239b4194)
+/ [[Ru](https://habr.com/ru/articles/733044/)]
 * [MobX with MVVM makes Frontender's life much easier than Redux does](https://dev.to/yoskutik/mobx-with-mvvm-makes-frontend-developers-life-much-more-easier-than-redux-does-547j)
 / [[Ru](https://habr.com/ru/articles/692218/)]
-* Extremely reducing the size of the NPM package
+* [Extremely reducing the size of the NPM package](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
 / [[Ru](https://habr.com/ru/articles/709480/)]
 
 ## 🛠️ Technologies
@@ -112,10 +118,3 @@ has **micro frontends**, and over **30 million visitors a day**.
 </tbody>
 </table>
 
----
-
-## ⚡ Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yoskutik&show_icons=true)
-
-![](https://stackoverflow-readme-profile.johannchopin.fr/profile/11589183)
