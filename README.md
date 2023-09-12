@@ -1,42 +1,61 @@
 <a href="https://www.linkedin.com/in/yoskutik">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
+<a href="https://dev.to/yoskutik">
+  <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
+</a>
 <a href="https://t.me/Yoskutik">
   <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25>
 </a>
 <a href="https://stackoverflow.com/users/11589183/yoskutik">
   <img src="https://img.shields.io/badge/stack%20overflow-F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
 </a>
-<a href="https://medium.com/@yoskutik">
-  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="https://dev.to/yoskutik">
-  <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
-</a>
-
-![](https://stackoverflow-readme-profile.johannchopin.fr/profile/11589183)
 
 ---
 
+
 ## 🧐 About me
 
-Hey, there 👋! I am a Frontend Developer. I've been doing
-frontend since 2018, and I also have a year experience of
-working as a team-lead. Right now I am working on a project
-with a code base of more than **200K lines of code**, that
-has **micro frontends**, and over **40 million visitors a day**.
+Hey, there 👋! I am a Frontend Developer with 5+ years of experience
+with a bachelor degree in cybersecurity. Passionate about creating
+accessible user-friendly interfaces and wholeheartedly committed to
+improving their performance. On top of that, extremely proactive,
+ardent to learn new about frontend development every day
+and occasionally even write articles myself.
+
+Have experience of working with AB tests, multilingual
+applications, vast code base with 0.5 million lines, as well as
+experience in an application with over 50 million visitors a day.
+Have a background of creating UI Kit libraries, writing unit-tests
+and configuring CI/CD pipelines.
+
 
 ## 🖋️ Latest Blog Posts
-* Configurable typing of NPM packages. Typing may be Stricter than you Think
+
+* [Configurable typing of NPM packages. Typing may be Stricter than you Think](https://dev.to/yoskutik/configurable-typing-of-npm-packages-typing-may-be-stricter-than-you-think-2cj)
 / [[Ru](https://habr.com/ru/articles/751318/)]
-* [In search of the best EcmaScript version for the website assembly](https://medium.com/mayflower-team/in-search-of-the-best-ecmascript-version-for-the-build-d557239b4194)
+* [In search of the best EcmaScript version for the website assembly](https://dev.to/yoskutik/in-search-of-the-best-ecmascript-version-for-the-website-assembly-17e9)
 / [[Ru](https://habr.com/ru/articles/733044/)]
 * [MobX with MVVM makes Frontender's life much easier than Redux does](https://dev.to/yoskutik/mobx-with-mvvm-makes-frontend-developers-life-much-more-easier-than-redux-does-547j)
 / [[Ru](https://habr.com/ru/articles/692218/)]
 * [Extremely reducing the size of the NPM package](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
 / [[Ru](https://habr.com/ru/articles/709480/)]
 
-## 🛠️ Technologies
+
+## 💻 Open source projects
+
+* React VVM - An MVVM implementation for React with MobX.
+  * [Article](https://dev.to/yoskutik/mobx-with-mvvm-makes-frontend-developers-life-much-more-easier-than-redux-does-547j)
+  / [[Ru]](https://habr.com/ru/articles/692218/);
+  * [Source code](https://github.com/Yoskutik/react-vvm);
+  * [Web documentation](https://yoskutik.github.io/react-vvm/).
+* MobX Form Schema - The simple way to organize you forms!
+  * Article;
+  * Source code;
+  * Web documentation.
+
+
+## 🛠️ Used Technologies
 
 ### Currently working with
 
@@ -118,3 +137,6 @@ has **micro frontends**, and over **40 million visitors a day**.
 </tbody>
 </table>
 
+---
+
+![](https://stackoverflow-readme-profile.johannchopin.fr/profile/11589183)
