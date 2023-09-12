@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/stack%20overflow-F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
 </a>
 
----
-
 
 ## 🧐 About me
 
@@ -44,12 +42,12 @@ and configuring CI/CD pipelines.
 
 ## 💻 Open source projects
 
-* React VVM - An MVVM implementation for React with MobX.
+* **React VVM** - _An MVVM implementation for React with MobX._
   * [Article](https://dev.to/yoskutik/mobx-with-mvvm-makes-frontend-developers-life-much-more-easier-than-redux-does-547j)
   / [[Ru]](https://habr.com/ru/articles/692218/);
   * [Source code](https://github.com/Yoskutik/react-vvm);
   * [Web documentation](https://yoskutik.github.io/react-vvm/).
-* MobX Form Schema - The simple way to organize you forms!
+* **MobX Form Schema** - _The simple way to organize you forms!_
   * Article;
   * Source code;
   * Web documentation.
