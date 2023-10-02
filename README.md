@@ -15,7 +15,7 @@
 ## 🧐 About me
 
 Hey, there 👋! I am a Frontend Developer with 5+ years of experience
-with a bachelor degree in cybersecurity. Passionate about creating
+with a bachelor's degree in cybersecurity. Passionate about creating
 accessible user-friendly interfaces and wholeheartedly committed to
 improving their performance. On top of that, extremely proactive,
 ardent to learn new about frontend development every day
@@ -42,15 +42,17 @@ and configuring CI/CD pipelines.
 
 ## 💻 Open source projects
 
-* **React VVM** - _An MVVM implementation for React with MobX._
-  * [Article](https://dev.to/yoskutik/mobx-with-mvvm-makes-frontend-developers-life-much-more-easier-than-redux-does-547j)
-  / [[Ru]](https://habr.com/ru/articles/692218/);
-  * [Source code](https://github.com/Yoskutik/react-vvm);
-  * [Web documentation](https://yoskutik.github.io/react-vvm/).
-* **MobX Form Schema** - _The simple way to organize you forms!_
-  * Article;
-  * Source code;
-  * Web documentation.
+* **MobX Form Schema** - _The simple way to organize your forms!_  
+[Web documentation](https://yoskutik.github.io/mobx-form-schema/) •
+[Article](https://dev.to/yoskutik/how-can-decorators-simplify-the-web-forms-development-1aoh-temp-slug-1502998) / [[Ru]](https://habr.com/ru/articles/764254/) •
+[Source code](https://github.com/Yoskutik/mobx-form-schema)
+
+
+* **React VVM** - _An MVVM implementation for React with MobX._  
+[Web documentation](https://yoskutik.github.io/react-vvm/) •
+[Article](https://dev.to/yoskutik/mobx-with-mvvm-makes-frontend-developers-life-much-more-easier-than-redux-does-547j)
+/ [[Ru]](https://habr.com/ru/articles/692218/) •
+[Source code](https://github.com/Yoskutik/react-vvm)
 
 
 ## 🛠️ Used Technologies
