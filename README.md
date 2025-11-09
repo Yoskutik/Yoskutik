@@ -14,22 +14,18 @@
 
 ## 🧐 About me
 
-Hey, there 👋! I am a Frontend Developer with 5+ years of experience
-with a bachelor's degree in cybersecurity. Passionate about creating
-accessible user-friendly interfaces and wholeheartedly committed to
-improving their performance. On top of that, extremely proactive,
-ardent to learn new about frontend development every day
-and occasionally even write articles myself.
+Hey, there 👋! I am a Software Engineer with 7+ years of experience. Proficient in and passionate about Front-End Development (React), refining interface performance and accessibility, as well as enhancing user experience. Also experienced in Back-End (Go), Infrastructure & DevOps, System Design, and Compliance Regulations.
 
-Have experience of working with AB tests, multilingual
-applications, vast code base with 0.5 million lines, as well as
-experience in an application with over 50 million visitors a day.
-Have a background of creating UI Kit libraries, writing unit-tests
-and configuring CI/CD pipelines.
+Experienced in delivering high-traffic products serving over 50 million users daily and architecting complex micro-frontend systems. Take full ownership of projects from design to production, and actively contribute to collaboration and knowledge sharing across teams and organisations.
 
 
 ## 🖋️ Latest Blog Posts
 
+* *How to make your app indefinitely lazy: The ultimate guide* (Series):
+  * [Part 1: Why lazy loading is important](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-1-why-lazy-loading-is-important-afl) / [[Ru]](https://habr.com/ru/articles/960058/)
+  * [Part 2: Dependency Graphs](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-2-dependency-graphs-2bi1) / [[Ru]](https://habr.com/ru/articles/962888/)
+  * [Part 3: Vendors and Cache](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-3-vendors-and-cache-49k9) / [[Ru]](https://habr.com/ru/articles/963112/)
+  * [Part 4: Preload in Advance](https://dev.to/yoskutik/how-to-make-your-app-indefinitely-lazy-part-4-preload-in-advance-2go1) / [[Ru]](https://habr.com/ru/articles/964472/)
 * [Configurable typing of NPM packages. Typing may be Stricter than you Think](https://dev.to/yoskutik/configurable-typing-of-npm-packages-typing-may-be-stricter-than-you-think-2cj)
 / [[Ru](https://habr.com/ru/articles/751318/)]
 * [In search of the best EcmaScript version for the website assembly](https://dev.to/yoskutik/in-search-of-the-best-ecmascript-version-for-the-website-assembly-17e9)
